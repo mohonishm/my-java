@@ -13,6 +13,6 @@ class MyJavaApplicationTests {
 	@Test
 	void nothingLoads() {
 
-	}
+
 
 }
