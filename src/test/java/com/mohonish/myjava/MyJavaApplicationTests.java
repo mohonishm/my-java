@@ -10,4 +10,9 @@ class MyJavaApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void nothingLoads() {
+
+
+
 }
